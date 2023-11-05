@@ -1,6 +1,8 @@
-# Karolina Pawłowska - Resume
+# Karolina Pawłowska - Documentation
 
-Welcome to the GitHub repository for my resume. This document is crafted to illustrate my expertise in social media management, marketing, and creative content production, perfect for entities seeking seasoned professionals who thrive in remote and dynamic environments.
+Welcome to the GitHub repository for my hypermedia project. This document is crafted to illustrate my expertise in social media management, marketing, and creative content production, perfect for entities seeking seasoned professionals who thrive in remote and dynamic environments.
+
+# Project Analysis
 
 ## Target User Profile
 
